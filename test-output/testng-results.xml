@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T16:29:46 IST" name="Suite" finished-at="2023-03-27T16:30:41 IST" duration-ms="55196">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T16:29:46 IST" name="Test" finished-at="2023-03-27T16:30:41 IST" duration-ms="55196">
+      <class name="testclass.Test_Cases_A">
+        <test-method is-config="true" signature="object()[pri:0, instance:testclass.Test_Cases_A@544d57e]" started-at="2023-03-27T16:29:56 IST" name="object" finished-at="2023-03-27T16:29:56 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="ReqOtp()[pri:2, instance:testclass.Test_Cases_A@544d57e]" started-at="2023-03-27T16:29:56 IST" name="ReqOtp" finished-at="2023-03-27T16:30:40 IST" duration-ms="43978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqOtp -->
+        <test-method signature="Verify()[pri:3, instance:testclass.Test_Cases_A@544d57e]" started-at="2023-03-27T16:30:40 IST" name="Verify" finished-at="2023-03-27T16:30:41 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify -->
+        <test-method signature="Verify_Page()[pri:4, instance:testclass.Test_Cases_A@544d57e]" started-at="2023-03-27T16:30:41 IST" name="Verify_Page" finished-at="2023-03-27T16:30:41 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Page -->
+      </class> <!-- testclass.Test_Cases_A -->
+      <class name="testclass.Test_Cases">
+        <test-method is-config="true" signature="intbrowser()[pri:0, instance:testclass.Test_Cases@28b46423]" started-at="2023-03-27T16:29:23 IST" name="intbrowser" finished-at="2023-03-27T16:29:46 IST" duration-ms="22842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intbrowser -->
+        <test-method is-config="true" signature="object()[pri:0, instance:testclass.Test_Cases@28b46423]" started-at="2023-03-27T16:29:46 IST" name="object" finished-at="2023-03-27T16:29:46 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="navigatestotheloginURL()[pri:1, instance:testclass.Test_Cases@28b46423]" started-at="2023-03-27T16:29:46 IST" name="navigatestotheloginURL" finished-at="2023-03-27T16:29:56 IST" duration-ms="10349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatestotheloginURL -->
+      </class> <!-- testclass.Test_Cases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
